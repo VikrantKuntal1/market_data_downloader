@@ -1,0 +1,6 @@
+requests
+pandas
+lxml
+gspread
+gspread_dataframe
+oauth2client
