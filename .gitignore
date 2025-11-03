@@ -1,0 +1,8 @@
+# Ignore credentials and local data
+*.json
+data/
+*.csv
+__pycache__/
+.DS_Store
+.env
+download_log.txt
