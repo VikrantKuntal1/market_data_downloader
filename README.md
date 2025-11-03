@@ -33,7 +33,6 @@ market_data_downloader/
 │
 ├── download_data.py                     # Main automation script
 ├── requirements.txt                      # Python dependencies
-├── data/                                 # Folder where CSV backups are stored
 ├── .gitignore                            # Prevents credentials & temp files from uploading
 └── README.md                             # Documentation
 ```
